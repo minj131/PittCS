@@ -1,0 +1,90 @@
+
+Algorithm: Median of Three (5)
+Array size: 200000
+Order: Random
+Number of trials: 10
+Average Time: 0.020146077800000002 sec.
+
+Algorithm: Median of Three (20)
+Array size: 200000
+Order: Random
+Number of trials: 10
+Average Time: 0.0183146561 sec.
+
+Algorithm: Median of Three (100)
+Array size: 200000
+Order: Random
+Number of trials: 10
+Average Time: 0.0183572932 sec.
+
+Algorithm: Random Pivot (5)
+Array size: 200000
+Order: Random
+Number of trials: 10
+Average Time: 0.0247674012 sec.
+
+Algorithm: MergeSort
+Array size: 200000
+Order: Random
+Number of trials: 10
+Average Time: 0.0344770138 sec.
+
+Algorithm: Median of Three (5)
+Array size: 200000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.0035542481 sec.
+
+Algorithm: Median of Three (20)
+Array size: 200000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.0034424965 sec.
+
+Algorithm: Median of Three (100)
+Array size: 200000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.0034622518 sec.
+
+Algorithm: Random Pivot (5)
+Array size: 200000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.0089059895 sec.
+
+Algorithm: MergeSort
+Array size: 200000
+Order: Sorted
+Number of trials: 10
+Average Time: 8.26184E-4 sec.
+
+Algorithm: Median of Three (5)
+Array size: 200000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.0057985133 sec.
+
+Algorithm: Median of Three (20)
+Array size: 200000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.0057530124 sec.
+
+Algorithm: Median of Three (100)
+Array size: 200000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.0057446836 sec.
+
+Algorithm: Random Pivot (5)
+Array size: 200000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.0089752494 sec.
+
+Algorithm: MergeSort
+Array size: 200000
+Order: Reverse
+Number of trials: 10
+Average Time: 0.0117066744 sec.

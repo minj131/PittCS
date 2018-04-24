@@ -1,0 +1,3 @@
+The user history table is represented using a hash set. I primarily chose this data structure because the add method is O(1) constant time and it also does not allow duplicate entries. This makes traversal much quicker when checking against the user key. The referencing still takes O(n) because the the key needs to be checked against each word. In addition, the check that occurs in each element is O(w) where w is size of the key being checked but should not affect the run time as a whole.
+
+If I had more time, I could have implemented a seperate prefix tree to check against that eliminating even more duplicates and reducing space complexity.

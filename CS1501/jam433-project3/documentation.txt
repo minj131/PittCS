@@ -1,0 +1,32 @@
+CS1501 Project 3 Documentation
+
+#########
+# Trace #
+#########
+
+An ArrayList is initialized to hold the cities.
+PQ[] are initialized to hold the specific informations of listings by city.
+
+PQs are initialized to hold a priority queue for rent and sq footage.
+
+Comparators that are used for the priority comparisons are intialized as well.
+
+Code loops until System.exit(0) call is made. Simple switch case runs through each option.
+
+Finally, at the bottom is an inner class to hold the structure information for Apartment. A constructor for said Apartment and a toString().
+
+
+
+#################
+# Justification #
+#################
+
+Most of the PQ implementation was provided by Farnan and the book authors MinPQ.java
+
+I've decided to split the requirements needed for the PQ by having two PQs manage the rent and the square footage. Even though I'm using a Min PQ. I've altered the comparator for the sq footage to basically take the opposite thereby storing highest sq footage as the highest priority.
+
+Having two PQs obviously requires greater space complexity. However, the advantages of easier implementation difficulty and preventing potential for wasted comparisons outweighed the need for extra space. Look up would still be constant in this case.
+
+Additionally, I'm using an array based PQ to hold the city specific information thereby giving constant look up time. However, the drawback is that I need to iterate through the PQ when trying to update and remove since I need access to the index O(n)? However, I think this is due to the fact that I am searching by comparing the street address, apt number, and zip. A potential solution to this would be to somehow use a more accessible key to each listing than having to do a comparison of the listing information. Regardless, the current implementation is efficient for all other operations.
+
+This extends further to my array list operations for adding new cities. IndexOf is an O(n) operation which can be improved on. But I believe the benefits of an ArrayList outweigh the O(n) operation time for search.

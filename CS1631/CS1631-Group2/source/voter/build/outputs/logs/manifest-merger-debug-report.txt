@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f0b48f29ad4e92fcdafb171a0d4bcdd0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bfdc2d44054f95371166417f63e3618e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\99c7897d3d7a441d5f2436241e994cea\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\e9d89ad88e85d977caa893c885758426\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6ffe1fb43819de84dc80e7b6cb1e24ca\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a2783b7ef5468140fd7a5468002ad5ba\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\32f119d9cad5f6dbb27503c94ab0d55c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\739f54c17c4080eb709aa943fe99e456\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\754e7d4bc3f268e05b416d6ce5253eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\6d61646c8ae7a28e793fdfce4548e31c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\8e2436e4ba816e5ca973686f1fa5d9b3\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\a80cfa3a8311dcc5591024ac4052daa7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8d8be802a94995c9aeff9b538aaaffb6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\569c2a4bfd776985e879fdf3758688a9\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:3:5-22
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f0b48f29ad4e92fcdafb171a0d4bcdd0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f0b48f29ad4e92fcdafb171a0d4bcdd0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bfdc2d44054f95371166417f63e3618e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bfdc2d44054f95371166417f63e3618e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\99c7897d3d7a441d5f2436241e994cea\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\99c7897d3d7a441d5f2436241e994cea\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\e9d89ad88e85d977caa893c885758426\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-base-8.4.0.aar\e9d89ad88e85d977caa893c885758426\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6ffe1fb43819de84dc80e7b6cb1e24ca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6ffe1fb43819de84dc80e7b6cb1e24ca\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a2783b7ef5468140fd7a5468002ad5ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a2783b7ef5468140fd7a5468002ad5ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\32f119d9cad5f6dbb27503c94ab0d55c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\32f119d9cad5f6dbb27503c94ab0d55c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\739f54c17c4080eb709aa943fe99e456\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\739f54c17c4080eb709aa943fe99e456\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\754e7d4bc3f268e05b416d6ce5253eb8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.0.aar\754e7d4bc3f268e05b416d6ce5253eb8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\6d61646c8ae7a28e793fdfce4548e31c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\6d61646c8ae7a28e793fdfce4548e31c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\8e2436e4ba816e5ca973686f1fa5d9b3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\8e2436e4ba816e5ca973686f1fa5d9b3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\a80cfa3a8311dcc5591024ac4052daa7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\a80cfa3a8311dcc5591024ac4052daa7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8d8be802a94995c9aeff9b538aaaffb6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8d8be802a94995c9aeff9b538aaaffb6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\569c2a4bfd776985e879fdf3758688a9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\569c2a4bfd776985e879fdf3758688a9\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+		INJECTED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:12:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.INTERNET
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.**permission.INTERNET
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:24:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:25:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:26:22-64
+application
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:28:5-62:19
+MERGED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\design-25.0.0.aar\c7881112f94a398cdee4a9a5938bd835\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f0b48f29ad4e92fcdafb171a0d4bcdd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\f0b48f29ad4e92fcdafb171a0d4bcdd0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bfdc2d44054f95371166417f63e3618e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\transition-25.0.0.aar\bfdc2d44054f95371166417f63e3618e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\99c7897d3d7a441d5f2436241e994cea\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-8.4.0.aar\99c7897d3d7a441d5f2436241e994cea\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6ffe1fb43819de84dc80e7b6cb1e24ca\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\6ffe1fb43819de84dc80e7b6cb1e24ca\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a2783b7ef5468140fd7a5468002ad5ba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a2783b7ef5468140fd7a5468002ad5ba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\32f119d9cad5f6dbb27503c94ab0d55c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\32f119d9cad5f6dbb27503c94ab0d55c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\739f54c17c4080eb709aa943fe99e456\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\739f54c17c4080eb709aa943fe99e456\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\6d61646c8ae7a28e793fdfce4548e31c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\6d61646c8ae7a28e793fdfce4548e31c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\8e2436e4ba816e5ca973686f1fa5d9b3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\8e2436e4ba816e5ca973686f1fa5d9b3\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\a80cfa3a8311dcc5591024ac4052daa7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\a80cfa3a8311dcc5591024ac4052daa7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8d8be802a94995c9aeff9b538aaaffb6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8d8be802a94995c9aeff9b538aaaffb6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\569c2a4bfd776985e879fdf3758688a9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\569c2a4bfd776985e879fdf3758688a9\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:32:9-40
+activity#input.MainActivity
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:33:9-42:20
+	android:screenOrientation
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:34:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:40:27-74
+receiver#input.SmsReceiver
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:44:9-50:20
+	android:enabled
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:46:13-35
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:45:13-45
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:47:13-49:29
+	android:priority
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:47:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:48:17-82
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:48:25-79
+activity#input.ResultsActivity
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:52:9-55:61
+	android:screenOrientation
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:54:13-42
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:53:13-49
+meta-data#com.google.android.gms.version
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:57:9-59:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Jamie Min\.gradle\caches\transforms-1\files-1.1\play-services-basement-8.4.0.aar\b994a6bfcd5abe5fbf052ceda1cd6e4f\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:59:13-66
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:58:13-58
+activity#input.TestingActivity
+ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:61:9-67
+	android:name
+		ADDED from D:\Jamie Min\Documents\min\source\voter\src\main\AndroidManifest.xml:61:19-55

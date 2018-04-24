@@ -1,0 +1,1188 @@
+
+Algorithm: Simple QuickSort TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 0
+Array size: 20
+Order: Random
+Data before sorted: [16, 15, 6, 11, 5, 0, 19, 0, 7, 14, 14, 11, 10, 5, 18, 6, 17, 15, 7, 11]
+Data after sorted: [0, 0, 5, 5, 6, 6, 7, 7, 10, 11, 11, 11, 14, 14, 15, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: Median of Three (5) TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: Median of Three (20) TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: Median of Three (100) TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: Random Pivot (5) TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: MergeSort TRACE: 1
+Array size: 20
+Order: Random
+Data before sorted: [10, 12, 14, 11, 14, 3, 19, 16, 8, 15, 16, 8, 16, 15, 19, 18, 0, 11, 11, 5]
+Data after sorted: [0, 3, 5, 8, 8, 10, 11, 11, 11, 12, 14, 14, 15, 15, 16, 16, 16, 18, 19, 19]
+
+Algorithm: Simple QuickSort TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: Median of Three (5) TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: Median of Three (20) TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: Median of Three (100) TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: Random Pivot (5) TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: MergeSort TRACE: 2
+Array size: 20
+Order: Random
+Data before sorted: [3, 12, 8, 0, 2, 18, 13, 6, 5, 4, 16, 9, 6, 18, 17, 3, 4, 3, 15, 16]
+Data after sorted: [0, 2, 3, 3, 3, 4, 4, 5, 6, 6, 8, 9, 12, 13, 15, 16, 16, 17, 18, 18]
+
+Algorithm: Simple QuickSort TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: Median of Three (5) TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: Median of Three (20) TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: Median of Three (100) TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: Random Pivot (5) TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: MergeSort TRACE: 3
+Array size: 20
+Order: Random
+Data before sorted: [11, 3, 0, 15, 4, 19, 8, 17, 10, 9, 6, 3, 1, 7, 3, 9, 10, 15, 0, 0]
+Data after sorted: [0, 0, 0, 1, 3, 3, 3, 4, 6, 7, 8, 9, 9, 10, 10, 11, 15, 15, 17, 19]
+
+Algorithm: Simple QuickSort TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: Median of Three (5) TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: Median of Three (20) TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: Median of Three (100) TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: Random Pivot (5) TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: MergeSort TRACE: 4
+Array size: 20
+Order: Random
+Data before sorted: [14, 13, 6, 1, 19, 16, 13, 16, 10, 16, 2, 11, 12, 1, 19, 13, 1, 1, 9, 12]
+Data after sorted: [1, 1, 1, 1, 2, 6, 9, 10, 11, 12, 12, 13, 13, 13, 14, 16, 16, 16, 19, 19]
+
+Algorithm: Simple QuickSort TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: Median of Three (5) TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: Median of Three (20) TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: Median of Three (100) TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: Random Pivot (5) TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: MergeSort TRACE: 5
+Array size: 20
+Order: Random
+Data before sorted: [6, 8, 8, 2, 19, 13, 16, 0, 5, 9, 3, 7, 14, 0, 16, 16, 16, 9, 2, 13]
+Data after sorted: [0, 0, 2, 2, 3, 5, 6, 7, 8, 8, 9, 9, 13, 13, 14, 16, 16, 16, 16, 19]
+
+Algorithm: Simple QuickSort TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 6
+Array size: 20
+Order: Random
+Data before sorted: [11, 12, 17, 2, 3, 18, 11, 15, 9, 0, 3, 19, 14, 12, 1, 6, 3, 4, 10, 4]
+Data after sorted: [0, 1, 2, 3, 3, 3, 4, 4, 6, 9, 10, 11, 11, 12, 12, 14, 15, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: Median of Three (5) TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: Median of Three (20) TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: Median of Three (100) TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: Random Pivot (5) TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: MergeSort TRACE: 7
+Array size: 20
+Order: Random
+Data before sorted: [4, 11, 17, 13, 4, 7, 7, 9, 6, 9, 16, 1, 6, 16, 0, 8, 7, 0, 13, 9]
+Data after sorted: [0, 0, 1, 4, 4, 6, 6, 7, 7, 7, 8, 9, 9, 9, 11, 13, 13, 16, 16, 17]
+
+Algorithm: Simple QuickSort TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: Median of Three (5) TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: Median of Three (20) TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: Median of Three (100) TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: Random Pivot (5) TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: MergeSort TRACE: 8
+Array size: 20
+Order: Random
+Data before sorted: [14, 15, 2, 2, 16, 14, 17, 2, 4, 18, 17, 17, 15, 3, 8, 0, 9, 13, 13, 16]
+Data after sorted: [0, 2, 2, 2, 3, 4, 8, 9, 13, 13, 14, 14, 15, 15, 16, 16, 17, 17, 17, 18]
+
+Algorithm: Simple QuickSort TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: Simple QuickSort
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 4.6085800000000005E-5 sec.
+
+Algorithm: Median of Three (5) TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: Median of Three (5)
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 6.291869999999999E-5 sec.
+
+Algorithm: Median of Three (20) TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: Median of Three (20)
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 6.3416E-6 sec.
+
+Algorithm: Median of Three (100) TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: Median of Three (100)
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 7.9196E-6 sec.
+
+Algorithm: Random Pivot (5) TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: Random Pivot (5)
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 1.4641100000000001E-5 sec.
+
+Algorithm: MergeSort TRACE: 9
+Array size: 20
+Order: Random
+Data before sorted: [17, 2, 2, 3, 5, 16, 17, 6, 17, 15, 5, 18, 19, 4, 16, 18, 8, 9, 15, 3]
+Data after sorted: [2, 2, 3, 3, 4, 5, 5, 6, 8, 9, 15, 15, 16, 16, 17, 17, 17, 18, 18, 19]
+
+Algorithm: MergeSort
+Array size: 20
+Order: Random
+Number of trials: 10
+Average Time: 1.08126E-5 sec.
+
+Algorithm: Simple QuickSort TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 0
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 1
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 2
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 3
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 4
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 5
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 6
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 7
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5) TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20) TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100) TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5) TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort TRACE: 8
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Simple QuickSort
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 7.1891E-6 sec.
+
+Algorithm: Median of Three (5) TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (5)
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 3.4481E-6 sec.
+
+Algorithm: Median of Three (20) TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (20)
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 3.6532E-6 sec.
+
+Algorithm: Median of Three (100) TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Median of Three (100)
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 3.2439E-6 sec.
+
+Algorithm: Random Pivot (5) TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: Random Pivot (5)
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 6.6221E-5 sec.
+
+Algorithm: MergeSort TRACE: 9
+Array size: 20
+Order: Sorted
+Data before sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+Data after sorted: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+Algorithm: MergeSort
+Array size: 20
+Order: Sorted
+Number of trials: 10
+Average Time: 1.2857E-6 sec.
+
+Algorithm: Simple QuickSort TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 0
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 1
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 2
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 3
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 4
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 5
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 6
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 7
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5) TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20) TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100) TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5) TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort TRACE: 8
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Simple QuickSort
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 5.8742E-6 sec.
+
+Algorithm: Median of Three (5) TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (5)
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 3.1854E-6 sec.
+
+Algorithm: Median of Three (20) TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (20)
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 2.3379E-6 sec.
+
+Algorithm: Median of Three (100) TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Median of Three (100)
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 2.2501999999999996E-6 sec.
+
+Algorithm: Random Pivot (5) TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: Random Pivot (5)
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 7.3353E-6 sec.
+
+Algorithm: MergeSort TRACE: 9
+Array size: 20
+Order: Reverse
+Data before sorted: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+Data after sorted: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+Algorithm: MergeSort
+Array size: 20
+Order: Reverse
+Number of trials: 10
+Average Time: 4.8512E-6 sec.

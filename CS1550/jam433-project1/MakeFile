@@ -1,0 +1,2 @@
+all: library.c driver.c
+	gcc library.c driver.c -o driver

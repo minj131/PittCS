@@ -1,0 +1,87 @@
+------------------------------------------------------------------------------------------------------------------------------------|
+ Filename						Compression 				Original File Size		Compressed File Size			Ratio				 |
+									Mode							(KB)							(KB)														 |
+------------------------------------------------------------------------------------------------------------------------------------|
+all.tar							LZW.java						2960							1804									1.64
+all.tar							MyLZW.java -n				2960							1751									1.69
+all.tar							MyLZW.java -r				2960							1151									2.57
+all.tar							MyLZW.java -m				2960							1778									1.65
+all.tar							7zip .7z							2960							810									3.65
+
+assig2.doc						LZW.java						85							73									1.16
+assig2.doc						MyLZW.java -n				85							40									2.13
+assig2.doc						MyLZW.java -r				85							40									2.13
+assig2.doc						MyLZW.java -m				85							40									2.13
+assig2.doc						7zip								85							21									4.05
+
+bmps.tar						LZW.java						1080							904									1.20
+bmps.tar						MyLZW.java -n				1080							80									13.5
+bmps.tar						MyLZW.java -r				1080							80									13.5
+bmps.tar						MyLZW.java -m				1080							80									13.5
+bmps.tar						7zip								1080							53									20.4
+
+code.txt						LZW.java						71							31									2.29
+code.txt						MyLZW.java -n				71							24									2.96
+code.txt						MyLZW.java -r				71							24									2.96
+code.txt						MyLZW.java -m				71							24									2.96
+code.txt						7zip								71							14									5.07
+
+code2.txt						LZW.java						57							24									2.38
+code2.txt						MyLZW.java -n				57							21									2.71
+code2.txt						MyLZW.java -r				57							21									2.71
+code2.txt						MyLZW.java -m				57							21									2.71
+code2.txt						7zip								57							13									4.34
+
+edit.exe						LZW.java						231							245									0.94
+edit.exe						MyLZW.java -n				231							153									1.51
+edit.exe						MyLZW.java -r				231							149									1.55
+edit.exe						MyLZW.java -m				231							153									1.51
+edit.exe						7zip								231							97									2.38
+	
+frosty.jpg						LZW.java						124							174									0.71
+frosty.jpg						MyLZW.java -n				124							160									0.76
+frosty.jpg						MyLZW.java -r				124							168									0.74
+frosty.jpg						MyLZW.java -m				124							160									0.76
+frosty.jpg						7zip								124							124									1.00
+
+gone_fishing.bmp			LZW.java						17							10									1.70
+gone_fishing.bmp			MyLZW.java -n				17							9										1.90
+gone_fishing.bmp			MyLZW.java -r				17							9										1.90
+gone_fishing.bmp			MyLZW.java -m				17							9										1.90
+gone_fishing.bmp			7zip								17							8										2.13
+
+large.txt						LZW.java						1193							591									2.02			
+large.txt						MyLZW.java -n				1193							491									2.43
+large.txt						MyLZW.java -r				1193							516									2.31
+large.txt						MyLZW.java -m				1193							491									2.43
+large.txt						7zip								1193							393									3.04
+
+Lego-big.gif					LZW.java						92							126									0.73
+Lego-big.gif					MyLZW.java -n				92							120									0.77
+Lego-big.gif					MyLZW.java -r				92							120									0.77
+Lego-big.gif					MyLZW.java -m				92							120									0.77
+Lego-big.gif					7zip								92							91									1.01
+
+medium.txt					LZW.java						25							13									1.92
+medium.txt					MyLZW.java -n				25							13									1.92
+medium.txt					MyLZW.java -r				25							13									1.92
+medium.txt					MyLZW.java -m				25							13									1.92
+medium.txt					7zip								25							11									2.27
+
+texts.tar						LZW.java						1350							989									1.37
+texts.tar						MyLZW.java -n				1350							584									2.31
+texts.tar						MyLZW.java -r				1350							577									2.34
+texts.tar						MyLZW.java -m				1350							584									2.31
+texts.tar						7zip								1350							427									2.97
+
+wacky.bmp					LZW.java						901							5										180.2
+wacky.bmp					MyLZW.java -n				901							4										225.3
+wacky.bmp					MyLZW.java -r				901							4										225.3
+wacky.bmp					MyLZW.java -m				901							4										225.3
+wacky.bmp					7zip								901							3										300.3
+
+winnt256.bmp				LZW.java						154							156									0.99
+winnt256.bmp				MyLZW.java -n				154							62									2.44
+winnt256.bmp				MyLZW.java -r				154							62									2.44
+winnt256.bmp				MyLZW.java -m				154							62									2.44
+winnt256.bmp				7zip								154							43									3.58
