@@ -1,0 +1,31 @@
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 40
+
+Metrics/ClassLength:
+  Max: 1500
+
+Metrics/PerceivedComplexity:
+  Max: 30
+
+Metrics/AbcSize:
+  Max: 60
+
+Metrics/PerceivedComplexity:
+  Max: 30
+
+Metrics/CyclomaticComplexity:
+  Max: 50
+
+Style/Next:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - '*_test.rb'
+    - '*_tests.rb'

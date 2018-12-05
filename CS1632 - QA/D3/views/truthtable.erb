@@ -1,0 +1,32 @@
+<html>
+  <head></head>
+  <body>
+    <table>
+      <tr>
+        <th align="left"><%= bitnumber %></th>
+        <th>AND</th>
+        <th>OR</th>
+        <th>XOR</th>
+      </tr> 
+      <% bitrows.reverse_each.with_index do |b, i| %>
+        <tr>
+          <td>
+            <%= b.join(' ') %>
+          </td>
+          <td>
+            <%= androws.reverse[i] %>
+          </td>
+          <td>
+            <%= orrows.reverse[i] %>
+          </td>
+          <td>
+            <%= xorrows.reverse[i] %>
+            <br>
+          </td>
+        </tr>
+      <% end %>
+    </table>
+      <br>
+      <a href="/">Back to main</a>
+  </body>
+</html>
